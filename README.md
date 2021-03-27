@@ -1,4 +1,4 @@
-# HTML5-Understanding and Exploiting - v0.5
+# HTML5 - Understanding and Exploiting - v0.5
 
 This paper was started way back in 2017 and found recently in migration of data. This paper will help in understanding couple of web vulnerabilities and contains examples, security concerns and remediations about them. All the vulnerabilities' details and latest web vulnerabilities will also be added in next latest version. 
 
